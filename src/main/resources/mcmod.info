@@ -1,0 +1,16 @@
+[
+{
+  "modid": "imaginariushealing",
+  "name": "Healing Mod",
+  "description": "Adds healing items and some recipes",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Imaginarius"],
+  "credits": "For our local server only",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

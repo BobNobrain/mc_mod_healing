@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mc_mod_healing.iml" filepath="$PROJECT_DIR$/.idea/modules/mc_mod_healing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mc_mod_healing_api.iml" filepath="$PROJECT_DIR$/.idea/modules/mc_mod_healing_api.iml" group="mc_mod_healing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mc_mod_healing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mc_mod_healing_main.iml" group="mc_mod_healing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mc_mod_healing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mc_mod_healing_test.iml" group="mc_mod_healing" />
+    </modules>
+  </component>
+</project>
